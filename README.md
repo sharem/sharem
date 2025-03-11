@@ -60,4 +60,4 @@ I also love learning new technologies and adapting quickly to new challenges. I�
 ## 🤔 Fun Fact
 I've recently inmersed myself into the **homelabbing** world, and I must admit that I'm hooked!
 
-Currently, I have a very modest setup 😊 consisting of 2 **Dell Optiplex Micro 7050** computers turned into a server that run [Proxmox](https://www.proxmox.com/en/) 24/7, where I love to run, tinker and play around different technologies and services. 🤓
+Currently, I have a very modest setup 😊 consisting of 2 **Dell Optiplex Micro 7050** computers turned into a servers that run [Proxmox](https://www.proxmox.com/en/) 24/7, where I love to run, tinker and play around different technologies and services. 🤓
